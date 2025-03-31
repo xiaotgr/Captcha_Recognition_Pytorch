@@ -14,7 +14,7 @@
 # 如何安装？
 
 ```
-git clone https://github.com/xiaoaug/Captcha_Recognition_Pytorch.git  # 下载
+git clone https://github.com/xiaotgr/Captcha_Recognition_Pytorch.git  # 下载
 cd Captcha_Recognition_Pytorch
 pip install -r requirements.txt  # 安装
 ```
